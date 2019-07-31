@@ -18,7 +18,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .ipynb_checkpoints
-.git*
+.gitignore
+.gitattributes
 # =========================
 # Operating System Files
 # =========================
